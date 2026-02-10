@@ -323,6 +323,23 @@ The sidebar is always visible on the left side and provides quick access to all 
 
 ---
 
+Team
+
+Team Name: Fourth X Born
+Team Number: DEV - 55
+
+Members
+
+Vibhath Kalsara
+
+Isuru Adikaram
+
+Ashen Randira
+
+Dileepa Prabhath
+
+Chanuka Ushan
+
 *Agro Sense AI Admin Panel — Managing Agricultural Intelligence for Sri Lanka* 🛡️
 
 
