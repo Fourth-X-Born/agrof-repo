@@ -71,13 +71,13 @@ Welcome to the **Agro Sense AI Admin Panel**. This guide covers all administrati
 
 ### Admin Login
 
-1. Navigate to `/admin/login`.
+1. Navigate to https://agrof-repo.vercel.app/admin/login .
 2. Enter your **Email** and **Password**.
 3. Click **Sign In** to access the Admin Dashboard.
 
 ### Admin Registration
 
-1. Navigate to `/admin/register`.
+1. Navigate to https://agrof-repo.vercel.app/admin/register.
 2. Fill in the registration form:
    - **Full Name** — Your name
    - **Email Address** — A valid email
@@ -93,7 +93,6 @@ Welcome to the **Agro Sense AI Admin Panel**. This guide covers all administrati
 
 ## 2. Dashboard
 
-**Path:** `/admin`
 
 The Admin Dashboard provides a high-level overview of the platform.
 
@@ -114,7 +113,6 @@ The Admin Dashboard provides a high-level overview of the platform.
 
 ## 3. Crops Management
 
-**Path:** `/admin/crops`
 
 Manage the crops available on the platform.
 
@@ -143,7 +141,6 @@ Manage the crops available on the platform.
 
 ## 4. Crop Guides Management
 
-**Path:** `/admin/crop-guides`
 
 Manage cultivation guidelines that farmers see in the Crop Guide page.
 
@@ -174,7 +171,6 @@ Manage cultivation guidelines that farmers see in the Crop Guide page.
 
 ## 5. Market Prices Management
 
-**Path:** `/admin/market-prices`
 
 Manage crop market prices across districts.
 
@@ -201,7 +197,6 @@ Manage crop market prices across districts.
 
 ## 6. Fertilizer Management
 
-**Path:** `/admin/fertilizer`
 
 Manage fertilizer recommendations linked to specific crops.
 
@@ -232,7 +227,6 @@ Manage fertilizer recommendations linked to specific crops.
 
 ## 7. Farmers (View Only)
 
-**Path:** `/admin/farmers`
 
 View all registered farmer accounts on the platform.
 
@@ -255,7 +249,6 @@ View all registered farmer accounts on the platform.
 
 ## 8. User Requests
 
-**Path:** `/admin/user-requests`
 
 Manage contact messages submitted by users through the Contact page.
 
