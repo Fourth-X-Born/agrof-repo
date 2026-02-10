@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  background-color: #2e7d32;
+  color: white;
+}
+
+.logo {
+  margin: 0;
+}
+
+.nav-links a {
+  margin-left: 16px;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.content {
+  padding: 24px;
+}
